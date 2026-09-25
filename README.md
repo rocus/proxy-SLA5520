@@ -1,4 +1,4 @@
-This repository describes a proxy for old radio streamers. 
+This repository describes a proxy for old radio streamers in my case SWLA5520's
 
 I have several Philips SLA5520 radio streamers. They are not bound to a specific vendor (the Philips radio backend was clunky from the beginning). They are quite old (more than 20 years) and in some respects are a bit obsolete:
 
